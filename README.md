@@ -1,9 +1,9 @@
 # Автоматизация верстки макетов базового интенсива htmlacademy
 Автоматизация верстки макетов базового интенсива htmlacademy, написанный с помощью gulp (gulp skeleton for htmlacademy projects). Проект был основан на наработках https://github.com/pugofka/gulp-starter
 
-#Появились вопросы - https://vk.com/maxim.durnov
+## Появились вопросы - https://vk.com/maxim.durnov
 
-# Где размещать исходные файлы?
+## Где размещать исходные файлы?
 * CSS размещать в папке src/css
 * HTML размещать в папке src/
 * JS размещать в папке src/js
