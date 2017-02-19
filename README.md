@@ -1,5 +1,5 @@
 # gulp-htmlacademy
-Автоматизация верстки макетов базового интенсива htmlacademy, написанный с помощью gulp (gulp skeleton for htmlacademy projects). Появились вопросы - 
+Автоматизация верстки макетов базового интенсива htmlacademy, написанный с помощью gulp (gulp skeleton for htmlacademy projects). Проект был основан на наработках [https://github.com/pugofka/gulp-starter] Появились вопросы - [https://vk.com/maxim.durnov]
 
 # Где размещать исходные файлы?
 * CSS размещать в папке src/css
@@ -7,3 +7,5 @@
 * JS размещать в папке src/js
 * Шрифты размещать в папке src/font
 * Картинки размещать в папке src/img
+* PSD файлы и прочие файлы, прилагаемые к проекту стоит размещать в папке resource/
+
